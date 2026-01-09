@@ -13,5 +13,5 @@
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `Ben Salmon`    | `bsalmon` |
+| `Ben Hall` | `bbhall`  |
