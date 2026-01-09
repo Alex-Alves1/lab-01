@@ -4,12 +4,12 @@ import java.util.Date;
 
 public class Happy extends Mood {
 
-    public Happy(String name) {
-        super(name);
+    public Happy() {
+        super();
     }
 
-    public Happy(String name, Date date) {
-        super(name, date);
+    public Happy(Date date) {
+        super(date);
     }
 
     @Override
